@@ -9,5 +9,5 @@ The module also includes functions to solve a Sudoku puzzle, print the board,
 and run a main function that tests four puzzles (Easy, Medium, Hard, Evil) using
 both solving strategies.
 
-To Run the program use:
+To run the program, use:
 python sudoku.py
